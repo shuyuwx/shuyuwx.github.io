@@ -3,14 +3,14 @@
 
 ![preview](https://cdn.jsdelivr.net/gh/SomeBottle/DocB@main/assets/preview.png)   
 
-## 简单介绍
+### 简单介绍
 * **SPA**
 * 自动替换文档中的```URL```
 * 根据锚点生成简单目录  
 * 记忆每页浏览的位置  
 * 在必要的时候自动展开```<details>```标签  
 
-## 部署方法
+### 部署方法
 1. 将仓库内的文件上传到**静态网站服务器**。  
 2. 将**Markdown文档**整理后放在根目录下的一个目录中。
 3. 自行修改或者借助[```auto.py```](#%E5%B0%8F%E5%B7%A5%E5%85%B7)生成```config.json```。  
@@ -49,7 +49,7 @@
                 TipsOfRegex.md
 ```
 
-## 配置文件  
+### 配置文件  
 根目录下的```config.json```：  
 
 ```json
@@ -129,7 +129,7 @@
 
 文件路径是相对于**本应用根目录**的（也就是```index.html```所在目录）  
 
-## 小工具  
+### 小工具  
 为了**方便生成配置文件**，我写了一个小脚本```auto.py```，和```index.html```放在同一目录下。  
 
 运行方式：
@@ -158,14 +158,14 @@ python auto.py
 
 （脚本会**自动提取**文档中**第一个markdown标题**作为文档标题内容，如果没找到会留空）
 
-## 示例
+### 示例
 
 在线Demo：https://doge.imbottle.com/DocB  
 
 这里放一段**用于主页**的md文档示例，展示**如何写相对路径链接**：
 
 ```markdown
-## Content  
+### Content  
 0. [书签签](bookmarks.md)  
 1. [大学物理实验有效数字与测量值小记](Others/Physics/PhyExpMeasuredAndSignificantFigure.md)  
 2. [【动画解释】关系数据库de关系代数小记](Others/DatabaseRelationalAlgebra.md) <--流量用户慎重浏览   
@@ -184,7 +184,7 @@ TEST
     └─Python
 ```
 
-## 引用项目  
+### 引用项目  
 
 * [rou.js](https://github.com/SomeBottle/rou.js)  
 * [Prism](https://github.com/PrismJS/prism)  
@@ -193,4 +193,4 @@ TEST
 * [markdown-It-Anchor](https://github.com/valeriangalliat/markdown-it-anchor)  
 
 ------
-### UNDER MIT LICENSE.
+#### UNDER MIT LICENSE.
