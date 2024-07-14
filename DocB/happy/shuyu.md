@@ -18,7 +18,8 @@
 ### 其他站点  
 
 * [备用站一](http://shuyuwx.space3v.work/)  
-* [备用站二](http://shuyu.great-site.net/)  
+* [备用站二](http://shuyu.great-site.net/)
+* [备用站三](https://shuyuwx.github.io/DocB/) 
 * [书鱼论坛](http://www.shuyuwenxue.com/)  
 * [书鱼文学社](https://www.2020319.xyz/)    
 
