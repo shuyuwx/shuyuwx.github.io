@@ -16,12 +16,22 @@
 
 
 ### 其他站点  
-
-* [备用站一](http://shuyuwx.space3v.work/)  
-* [备用站二](http://shuyu.great-site.net/)
-* [备用站三](https://shuyuwx.github.io/DocB/) 
 * [书鱼论坛](http://www.shuyuwenxue.com/)  
-* [书鱼文学社](https://www.2020319.xyz/)    
+* [档案室- win 95 风格](https://old.2020319.xyz/)  
+* [书鱼网盘](http://shuyu.51server.top/) 
+* [书鱼影院](https://sypan.fly.dev/)
+* [书鱼儿](https://shuyuer.2020319.xyz/)
+* [书鱼文学社](https://www.2020319.xyz/)
+
+
+### 备用站点  
+* [档案室备用站一](http://shuyu.my-place.us/) 
+* [档案室备用站二](http://shuyu.great-site.net/)
+* [档案室备用站三](https://shuyuwx.github.io/DocB/)
+* [书鱼网盘](http://shuyupan.lovestoblog.com/)
+* [未命名](https://noname.2020319.xyz/)
+* [书鱼文学社](http://shuyuwx.space3v.work/)
+
 
 ------
 ### -评论-
